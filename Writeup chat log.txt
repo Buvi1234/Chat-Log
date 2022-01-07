@@ -1,0 +1,7 @@
+Chat Log
+
+1.Created a html file to create a front end where from and to are asked and connect button to connect to database
+2. Express js will act as api between mongo db and frontend
+3.The Chat with user and the message with date ant time where loaded into the mongodb
+4.After pressing the connect button socket is created connection between then] client is established
+5.The message area to submit the message you have typed
